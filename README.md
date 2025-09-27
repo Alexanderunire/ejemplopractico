@@ -1,11 +1,11 @@
-captura de contrases
+CAPTURA DE CONTRASEÑAS
 
 Documentación en PDF.
 
 👉 [Ver documentación completa](documento.pdf)
 
 
-[Descargar el programa 👉 archivo rar (programa.rar)](programa.rar)
+👉[Descargar el programa archivo rar (programa.rar)](programa.rar)
 
 
 Sobre este proyecto
