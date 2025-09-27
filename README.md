@@ -1,4 +1,4 @@
--------------------CAPTURA DE CONTRASEÑAS---------------------
+-------------------CAPTURA DE CONTRASEÑAS---------------
 
 Documentación en PDF.
 
