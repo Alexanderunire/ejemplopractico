@@ -10,7 +10,7 @@ Descargar programa.
 
 informe técnico
 
-👉 [Ver informe (informe.pdf)
+👉 [Ver informe ](informe.pdf)
 
 
 -------------------SOBRE ESTE PROYECTO--------------------
