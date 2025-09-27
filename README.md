@@ -8,7 +8,7 @@ Descargar programa.
 
 👉[Descargar el programa archivo rar (programa.rar)](programa.rar)
 
-informe técnico
+Informe técnico
 
 👉 [Ver informe ](informe.pdf)
 
