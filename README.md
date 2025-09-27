@@ -1,4 +1,4 @@
-CAPTURA DE CONTRASEÑAS
+-------------------CAPTURA DE CONTRASEÑAS------------------
 
 Documentación en PDF.
 
@@ -8,7 +8,11 @@ Descargar programa.
 
 👉[Descargar el programa archivo rar (programa.rar)](programa.rar)
 
+informe técnico
 
-Sobre este proyecto
+👉 [Ver informe (informe.pdf)
 
-este proyecto contiene guias de como instalar desde Kali Linux a Windows un programa para capturar contraseñas esto de manera ética con fines educativos
+
+-------------------SOBRE ESTE PROYECTO--------------------
+
+Este proyecto contiene guías de como instalar desde Kali Linux a Windows un programa para capturar contraseñas esto de manera ética y con fines educativos.
